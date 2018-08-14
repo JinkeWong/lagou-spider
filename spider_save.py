@@ -2,5 +2,7 @@
 
 class SpiderSave:
     def save(self):
-        pass
-    
+        return True
+
+    def save_status(self):
+        print('succss')
